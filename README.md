@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on web and mobile aplication
 - 🌱 I'm currently learning react native and docker  
-- 📫 How to reach me: [dimasarya81821@gmail.com](mailto:dimasarya81821@gmail.com) | [Dimas Arya Ramadhan Setiawan]https://www.linkedin.com/in/dimas-arya-ramadhan-setiawan-4544362aa/)
+- 📫 How to reach me: [dimasarya81821@gmail.com](mailto:dimasarya81821@gmail.com) | [Dimas Arya Ramadhan Setiawan](https://www.linkedin.com/in/dimas-arya-ramadhan-setiawan-4544362aa/)
 
 ## Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimas-k&layout=compact)
